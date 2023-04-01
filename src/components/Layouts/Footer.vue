@@ -18,7 +18,7 @@
               <img src="../../assets/images/logo-white.png" alt="Image" />
             </router-link>
             <p class="comp-desc">
-              We are a company regulated and supervised by the SFC Financial Conduct Authority operating within the regulatory framework with RUIPC (20902985977) as a money services business.
+              We are a company regulated and supervised by the SFC Financial Conduct Authority operating within the regulatory framework as digital asset management.
               <br>Divisy operates as a digital asset exchange service provider and cryptoasset exchange platform.
             </p>
             <div class="social-link">

@@ -5,23 +5,21 @@
                 <div class="col-lg-6">
                     <div class="goal-img-wrap">
                         <img src="../../assets/images/goal/goal-shape-1.png" alt="Image" class="goal-shape-three bounce">
-                        <img src="../../assets/images/goal/goal-shape-2.png" alt="Image" class="goal-shape-one">
-                        <img src="../../assets/images/goal/goal-shape-3.png" alt="Image" class="goal-shape-two">
-                        <img src="../../assets/images/goal/goal-1.jpg" alt="Image">
+                        <img src="../../assets/images/goal/goal-1.png" alt="Image">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="goal-content">
                         <div class="content-title style1">
-                            <span>GoalSetting</span>
-                            <h2>Manage Your Money With Online Banking Solution</h2>
-                            <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have suffered alteration in some form, by injected humur or randomise words which don't sure amet sit dolor quras alto lorem.</p>
+                            <span>NFT's Market Place</span>
+                            <h2>Opportunity to own unique digital assets</h2>
+                            <p>NFT marketplaces are built on blockchain technology, which offers secure and transparent transactions. This ensures that buyers receive the NFT they purchased and that the seller receives payment for the sale.</p>
                         </div>
                         <ul class="content-feature-list style1 list-style">
-                            <li><span><i class="flaticon-tick"></i></span>Learn To Budget</li>
-                            <li><span><i class="flaticon-tick"></i></span>Create An Emergency Fund</li>
-                            <li><span><i class="flaticon-tick"></i></span>Get Out Of Debt</li>
-                            <li><span><i class="flaticon-tick"></i></span>Save And Invest Your Money</li>
+                            <li><span><i class="flaticon-tick"></i></span>Ownership and Authenticity</li>
+                            <li><span><i class="flaticon-tick"></i></span>Collection and Passion</li>
+                            <li><span><i class="flaticon-tick"></i></span>Value and Investment potential</li>
+                            <li><span><i class="flaticon-tick"></i></span>Safe and Secure Transactions</li>
                         </ul>
                     </div>
                 </div>

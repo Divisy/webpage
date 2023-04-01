@@ -13,16 +13,17 @@
                     <div class="about-content">
                         <img src="../../assets/images/about/about-shape-3.png" alt="Image" class="about-shape-three">
                         <div class="content-title style1">
-                            <span>Smart Banking</span>
-                            <h2>The Better Way To Save &amp; Invest Online Banking</h2>
-                            <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have suffered alteration in some form, by injected humur or randomise words which don't sure amet sit dolor quras alto lorem.</p>
+                            <span>About Divisy</span>
+                            <h2>Empower your financial future with our trusted crypto investments.</h2>
+                            <p>Across our experience as digital asstet managers we  discovered the several advantages over traditional financial products. One of the main benefits is the decentralized, meaning they are not controlled by any government or financial institution. This means that can offer greater financial freedom and autonomy, as you have control over your own assets.
+                            <br>Overall, investing in cryptocurrencies can provide a new and exciting opportunity for investors looking to diversify their portfolios and potentially earn higher returns.
+                            </p>
                         </div>
                         <ul class="content-feature-list style1 list-style">
-                            <li><span><i class="flaticon-tick"></i></span>Cards that work all across the world.</li>
-                            <li><span><i class="flaticon-tick"></i></span>Highest Returns on your investments.</li>
-                            <li><span><i class="flaticon-tick"></i></span>No ATM fees. No minimum balance. No overdrafts.</li>
+                            <li><span><i class="flaticon-tick"></i></span>Decentralization</li>
+                            <li><span><i class="flaticon-tick"></i></span>Potential for High Returns</li>
+                            <li><span><i class="flaticon-tick"></i></span>Protection Against Inflation</li>
                         </ul>
-                        <router-link to="/about" class="btn style1">More About us</router-link>
                     </div>
                 </div>
             </div>
