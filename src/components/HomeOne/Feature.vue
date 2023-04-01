@@ -6,10 +6,11 @@
                     <div class="feature-card style3">
                         <div class="feature-info">
                             <div class="feature-title">
-                                <span><img src="../../assets/images/feature/feature-icon-1.png" alt="Image"></span>
-                                <h3>Create An Account</h3>
+                                <span><img src="../../assets/images/feature/feature-icon-6.png" alt="Image"></span>
+                                <h3>Acquire Digital Assets</h3>
                             </div>
-                            <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer endis velit sed fuga volup tation sit praising pain.</p>
+                            <p>Create an account by verifying your identity, fund your account using a secure payment method accepted by Divisy, place a buy order specifying the amount and price, and finally, transfer the purchased digital asset to a secure digital wallet.
+                            <br>It's important to keep your private keys safe and secure to prevent theft or loss.</p>
                         </div>
                     </div>
                 </div>
@@ -17,10 +18,11 @@
                     <div class="feature-card style3">
                         <div class="feature-info">
                             <div class="feature-title">
-                                <span><img src="../../assets/images/feature/feature-icon-2.png" alt="Image"></span>
-                                <h3>Attach bank Account</h3>
+                                <span><img src="../../assets/images/feature/feature-icon-4.png" alt="Image"></span>
+                                <h3>Purchase Divisy Financial Product</h3>
                             </div>
-                            <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer endis velit sed fuga volup tation sit praising pain.</p>
+                            <p>Our goal is to help you achieve your financial goals and build a solid investment portfolio that will stand the test of time.
+                            <br>Financial products are tools used to invest, save or protect money and can be issued by different financial institutions, our portfolio offers you a range of options to meet your investment needs.</p>
                         </div>
                     </div>
                 </div>
@@ -28,10 +30,12 @@
                     <div class="feature-card style3">
                         <div class="feature-info">
                             <div class="feature-title">
-                                <span><img src="../../assets/images/feature/feature-icon-3.png" alt="Image"></span>
-                                <h3>Send Money</h3>
+                                <span><img src="../../assets/images/feature/feature-icon-5.png" alt="Image"></span>
+                                <h3>Claim the Profits</h3>
                             </div>
-                            <p>Lorem ipsum dolor sit amet dolor alut const slice elit aliquid dolor ametin perfer endis velit sed fuga volup tation sit praising pain.</p>
+                            <p>Our financial portfolio is designed to offer a balanced blend of growth and stability, with the potential for attractive returns over the long term.
+                            <br>Our team will provide regular updates on the performance of your investment, and you will have access to a range of resources and tools to help you make informed decisions.
+                            </p>
                         </div>
                     </div>
                 </div>

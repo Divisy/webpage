@@ -5,33 +5,33 @@
                 <div class="counter-card">
                     <div class="counter-text">
                         <div class="counter-num">
-                            <span>5430</span>
+                            <span>>2145</span>
                         </div>
-                        <p>Happy Customers</p>
+                        <p>Transactions</p>
                     </div>
                 </div>
                 <div class="counter-card">
                     <div class="counter-text">
                         <div class="counter-num">
-                            <span>25</span>
+                            <span>5</span>
                         </div>
-                        <p>Years in Banking</p>
+                        <p>Years Providing Digital Assets</p>
                     </div>
                 </div>
                 <div class="counter-card">
                     <div class="counter-text">
                         <div class="counter-num">
-                            <span>2597</span>
+                            <span>100%</span>
                         </div>
-                        <p>Our Branches</p>
+                        <p>Delivered Crypto Funds</p>
                     </div>
                 </div>
                 <div class="counter-card">
                     <div class="counter-text">
                         <div class="counter-num">
-                            <span>40467</span>
+                            <span>127+</span>
                         </div>
-                        <p>Successful Projects</p>
+                        <p>Customers</p>
                     </div>
                 </div>
             </div>

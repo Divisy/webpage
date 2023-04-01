@@ -12,10 +12,12 @@
                 <div class="col-lg-6">
                     <div class="wh-content">
                         <div class="content-title style1">
+                            <span></span><br>
+                            <span></span><br>
                             <span>Why Choose Us</span>
                             <h2>Secure &amp; Innovative Alternative to obtain high profit margin on your capital. </h2>
                             <p>Digital assets can offer benefits such as potential for high returns, lower transaction costs, and increased flexibility and accessibility.
-                                <br>Investing in arbitrage trading can potentially provide a way to earn profits by taking advantage of market inefficiencies and price differences between different markets.
+                            <br>Investing in arbitrage trading can potentially provide a way to earn profits by taking advantage of market inefficiencies and price differences between different markets.
                             </p>
                         </div>
                         <div class="feature-item-wrap">
@@ -25,7 +27,8 @@
                                 </span>
                                 <div class="feature-text">
                                     <h3>Digital Assets</h3>
-                                    <p>Vestibulum ac diam sit amet quam vehicula elemen tum sed sit amet dui praesent sapien pelle tesque.</p>
+                                    <p>Intangible assets that exist in electronic or digital form, such as cryptocurrencies, digital tokens, digital certificates.
+                                    <br>Likewise digital art and smart contracts that are controlled and managed using encryption techniques and decentralized digital ledgers.</p>
                                 </div>
                             </div>
                             <div class="feature-item">
@@ -34,7 +37,7 @@
                                 </span>
                                 <div class="feature-text">
                                     <h3>Arbitrage Trading</h3>
-                                    <p>Vestibulum ac diam sit amet quam vehicula elemen tum sed sit amet dui praesent sapien pelle tesque.</p>
+                                    <p>Strategy used in finance where an investor exploits price differences of the same asset on different markets or exchanges to make a risk-free profit.</p>
                                 </div>
                             </div>
                             <div class="feature-item">
@@ -43,7 +46,7 @@
                                 </span>
                                 <div class="feature-text">
                                     <h3>High Profits</h3>
-                                    <p>Vestibulum ac diam sit amet quam vehicula elemen tum sed sit amet dui praesent sapien pelle tesque.</p>
+                                    <p>Potential for significant returns on investment that can be earned through various investment channels. We focus on the ability to handle potential losses, building measures of the level of risk an investor is willing to accept to achieve their investment goals. </p>
                                 </div>
                             </div>
                         </div>

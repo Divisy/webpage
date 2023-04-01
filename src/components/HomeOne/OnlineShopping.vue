@@ -7,16 +7,16 @@
                         <img src="../../assets/images/shopping/shopping-shape-1.png" alt="Image" class="shopping-shape-one moveHorizontal">
                         <img src="../../assets/images/shopping/shopping-shape-2.png" alt="Image" class="shopping-shape-two bounce">
                         <div class="content-title style1 ">
-                            <span>Online Shopping</span>
-                            <h2>Shop Online Make  In Online Banking Payments</h2>
-                            <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have suffered alteration in some form, by injected humur or randomise words which don't sure amet sit dolor quras alto lorem.</p>
+                            <span>Foreign Currency Transfers</span>
+                            <h2>Best Rates for Sending and Receiving Money from Colombia to Spain.</h2>
+                            <p> </p>
                         </div>
                         <ul class="content-feature-list list-style">
-                            <li><i class="ri-check-double-line"></i>Cards that work all across the world.</li>
-                            <li><i class="ri-check-double-line"></i>Highest Returns on your investments.</li>
-                            <li><i class="ri-check-double-line"></i>No ATM fees. No minimum balance. No overdrafts.</li>
+                            <li><i class="ri-check-double-line"></i>Transparent rates</li>
+                            <li><i class="ri-check-double-line"></i>Safety and Security</li>
+                            <li><i class="ri-check-double-line"></i>Customer Service</li>
                         </ul>
-                        <router-link to="/register" class="btn style1">Signup Today</router-link>
+                        <router-link to="/register" class="btn style1">Send now</router-link>
                     </div>
                 </div>
                 <div class="col-lg-6 col-12 order-lg-2 order-1">
