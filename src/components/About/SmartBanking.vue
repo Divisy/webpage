@@ -14,15 +14,16 @@
                         <img src="../../assets/images/about/about-shape-3.png" alt="Image" class="about-shape-three">
                         <div class="content-title style1">
                             <span>About Divisy</span>
-                            <h2>Empower your financial future with our trusted crypto investments.</h2>
-                            <p>Across our experience as digital asstet managers we  discovered the several advantages over traditional financial products. One of the main benefits is the decentralized, meaning they are not controlled by any government or financial institution. This means that can offer greater financial freedom and autonomy, as you have control over your own assets.
-                            <br>Overall, investing in cryptocurrencies can provide a new and exciting opportunity for investors looking to diversify their portfolios and potentially earn higher returns.
+                            <h2>Empower your financial Future with our Trusted Digital Investments.</h2>
+                            <p>Throughout our experience as digital asset managers, we have discovered several advantages over traditional financial products. Our main value proposition is based on innovation and technology. As a result, we have developed an automated algorithm based on arbitrage trading strategy.
+                            <br>Overall, we believe digital investments can offer a new and exciting opportunity for investors looking to diversify their portfolios and potentially earn higher returns.
                             </p>
                         </div>
                         <ul class="content-feature-list style1 list-style">
                             <li><span><i class="flaticon-tick"></i></span>Decentralization</li>
-                            <li><span><i class="flaticon-tick"></i></span>Potential for High Returns</li>
+                            <li><span><i class="flaticon-tick"></i></span>Potential High Profits</li>
                             <li><span><i class="flaticon-tick"></i></span>Protection Against Inflation</li>
+                            <li><span><i class="flaticon-tick"></i></span>Risk Management</li>
                         </ul>
                     </div>
                 </div>
