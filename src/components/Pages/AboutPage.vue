@@ -4,11 +4,7 @@
         <div class="content-wrapper">
             <PageTitle pageTitle="About Us" />
             <SmartBanking />
-            <Services />
-            <OnlineShopping />
             <GoalSettings />
-            <Testimonials />
-            <BankingSecurity />
         </div>
         <Footer />
     </div>

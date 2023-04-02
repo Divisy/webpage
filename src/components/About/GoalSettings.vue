@@ -5,23 +5,24 @@
                 <div class="col-lg-6">
                     <div class="goal-img-wrap">
                         <img src="../../assets/images/goal/goal-shape-1.png" alt="Image" class="goal-shape-three bounce">
-                        <img src="../../assets/images/goal/goal-shape-2.png" alt="Image" class="goal-shape-one">
-                        <img src="../../assets/images/goal/goal-shape-3.png" alt="Image" class="goal-shape-two">
                         <img src="../../assets/images/goal/goal-1.jpg" alt="Image">
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="goal-content">
                         <div class="content-title style1">
-                            <span>GoalSetting</span>
-                            <h2>Manage Your Money With Online Banking Solution</h2>
-                            <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have suffered alteration in some form, by injected humur or randomise words which don't sure amet sit dolor quras alto lorem.</p>
+                            <span>Our History</span>
+                            <h2>Early Adopters of Blockchain Technology & Cryptocurrencies</h2>
+                            <p>We realized this technology could transform the financial system to benefit everyone. Started converting physical investments to digital assets on the blockchain.
+                            <br>Also in parallel we have helped people all over the world to understand digital investments and transform their fisical capital to digital. Over first two years, we gained knowledge and wealth, totaling over 80 ETH funds delivered. 
+                            <br>In 2022, we wrote the first arbitrage trading algorithm, enabling people from all backgrounds to profit from cryptocurrency markets. Divisy  integrates democratizing finance, helping people worldwide achieve financial freedom.  
+                            </p>
                         </div>
                         <ul class="content-feature-list style1 list-style">
-                            <li><span><i class="flaticon-tick"></i></span>Learn To Budget</li>
-                            <li><span><i class="flaticon-tick"></i></span>Create An Emergency Fund</li>
-                            <li><span><i class="flaticon-tick"></i></span>Get Out Of Debt</li>
-                            <li><span><i class="flaticon-tick"></i></span>Save And Invest Your Money</li>
+                            <li><span><i class="flaticon-tick"></i></span>Potential Growth</li>
+                            <li><span><i class="flaticon-tick"></i></span>From Physical To Digital Assets</li>
+                            <li><span><i class="flaticon-tick"></i></span>Arbitrage Trading Algotithms</li>
+                            <li><span><i class="flaticon-tick"></i></span>Safe Delivery Money</li>
                         </ul>
                     </div>
                 </div>
