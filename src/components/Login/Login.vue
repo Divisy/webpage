@@ -6,7 +6,7 @@
                     <div class="login-form-wrap">
                         <div class="login-header">
                             <h3>Login Here</h3>
-                            <p>Welcome Back!! Login To Your Account</p>
+                            <p>Welcome Back! Login To Your Account</p>
                         </div>
                         <div class="login-form">
                             <div class="login-body">

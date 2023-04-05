@@ -20,40 +20,38 @@
                 </div>
               </a>
             </lightgallery>
-            <h2>Mobile Banking</h2>
+            <h2>Exchange cryptocurrencies</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing, elit. Quasi,
-              porro expedita dolores quas nesciunt repellat sed. Nostrum sunt
-              obcaecati totam distinctio libero ea aliquam hic a consectetur, et
-              facere rem repudiandae maxime dolorem ad, saepe harum blanditiis.
+              Welcome to our stablecoin exchange service! We offer a safe and reliable way to exchange your stablecoin cryptocurrencies such as USDT and USDC with competitive rates.
             </p>
             <p>
-              Consectetur, et facere rem repudiandae maxime dolorem ad, saepe
-              harum blanditiis laborum voluptatum amet sit Lorem ipsum dolor sit
-              amet consectetur adipisicing elit. Voluptates odio omnis dolor
-              numquam dignissimos consectetur amet sit lorem ipsum dolor sit
-              amet consec.
+              Our stablecoin exchange service offers the best rates on the market. To exchange stablecoins, contact us with your request and we'll provide you with a quote based on the current market rates and the amount you wish to exchange. Once you agree with the quote, send the stablecoin to our designated wallet address and we'll send the exchanged stablecoin to your designated wallet address. Our service is fast, efficient, and secure, with most transactions completed within a few hours. 
             </p>
-            <h2>How Online Banking Works</h2>
+            <h2>Foreign Currency Transfers</h2>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptates odio omnis dolor numquam dignissimos enim assumenda
-              itaque nemo tenetur dolores incidunt, animi quo quae odit
-              corporis, nihil architecto inventore.
+              Our platform provides a fast, secure, and cost-effective way to send money globally. Whether you need to send money to family and friends or make business payments, our platform makes it easy and convenient.
+            </p>
+            <p>
+              Divisy offers the following steps: Sign up, complete verification, add funds using the indicated payment method, send money from Colombia to Spain, the receiver would have the money via transfer bank. The platform offers competitive exchange rates and low fees.
+            </p>
+            <h2>Digital Asset Management</h2>
+            <p>
+              Our digital assets management service provides a comprehensive solution for individuals and businesses looking to manage their digital assets. 
+            </p>
+            <p>
+              We offer a range of services includes portfolio management, reporting and analytics, and tax reporting. We create customized portfolios, offer real-time insights into your portfolio, and assist with tax compliance. We provide top-notch customer service and support to help you make informed decisions about your digital assets.
+            </p>
+            <h2>NFT Marketplace</h2>
+            <p>
+              Our service offers investors the opportunity to invest in the fast-growing NFT marketplace industry. Our team of experts has extensive knowledge and experience in the NFT market and will help you create a customized investment plan that meets your specific goals and risk tolerance.
             </p>
             <ul class="content-feature-list style2 list-style">
-              <li><i class="ri-check-line"></i>Opening accounts</li>
-              <li><i class="ri-check-line"></i>Transferring funds</li>
-              <li><i class="ri-check-line"></i>Applying for loans</li>
-              <li><i class="ri-check-line"></i>Depositing checks</li>
-              <li><i class="ri-check-line"></i>Staying informed</li>
-              <li><i class="ri-check-line"></i>24/7 on time services</li>
+              <li><i class="ri-check-line"></i>NFT Staking </li>
+              <li><i class="ri-check-line"></i>Minimize risks</li>
+              <li><i class="ri-check-line"></i>Maximize returns</li>
+              <li><i class="ri-check-line"></i>Access to Exclusive NFTs</li>
             </ul>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptates odio omnis dolor numquam dignissimos enim assumenda
-              itaque nemo tenetur dolores incidunt, animi quo quae odit
-              corporis, nihil architecto inventore.
             </p>
             <h2>More Asked Question</h2>
             <div class="accordion" id="accordionExample">
@@ -71,7 +69,7 @@
                       <i class="ri-arrow-down-s-line plus"></i>
                       <i class="ri-arrow-up-s-line minus"></i>
                     </span>
-                    What Is Bank Account?
+                    How do I get started with investing on Divisy?
                   </button>
                 </h2>
                 <div
@@ -83,11 +81,7 @@
                   <div class="accordion-body">
                     <div class="single-product-text">
                       <p>
-                        It is a long established fact that a reader will be
-                        distracted by the readable conten of a page when looking
-                        at its layout. The point of using Lorem Ipsum is that it
-                        has a more-or-less no content here', making it look like
-                        readable English.
+                        To get started with investing on Divisy, you will need to sign up for an account on the platform, complete the verification process, and schedule a meeting with one of our financial advisors in order to build an investment plan. Once you have funds in your account, you can start benefiting from the profit generated with Divisy.
                       </p>
                     </div>
                   </div>
@@ -107,7 +101,7 @@
                       <i class="ri-arrow-down-s-line plus"></i>
                       <i class="ri-arrow-up-s-line minus"></i>
                     </span>
-                    How Do I Activate My Card?
+                    Is investing on Divisy safe?
                   </button>
                 </h2>
                 <div
@@ -118,11 +112,7 @@
                 >
                   <div class="accordion-body">
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable conten of a page when looking
-                      at its layout. The point of using Lorem Ipsum is that it
-                      has a more-or-less no content here', making it look like
-                      readable English.
+                      Investing in Divisy is safe due to its regulation in multiple jurisdictions and strong reputation in the industry. Additionally, Divisy has robust security measures such as two-factor authentication and KYC (Know Your Customer). It also offers insurance protection for users' funds, further enhancing the safety of investing.
                     </p>
                   </div>
                 </div>
@@ -141,7 +131,7 @@
                       <i class="ri-arrow-down-s-line plus"></i>
                       <i class="ri-arrow-up-s-line minus"></i>
                     </span>
-                    How Do I Change My Passwoed?
+                    What fees should I expect when investing on Divisy?
                   </button>
                 </h2>
                 <div
@@ -152,11 +142,8 @@
                 >
                   <div class="accordion-body">
                     <p>
-                      It is a long established fact that a reader will be
-                      distracted by the readable conten of a page when looking
-                      at its layout. The point of using Lorem Ipsum is that it
-                      has a more-or-less no content here', making it look like
-                      readable English.
+                     Divisy charges commissions for the service it provides when exchanging stablecoins for fiat.
+                     <br>It assumes a risk when buying and selling currencies due to fluctuations in the market prices. Additionally, it incurs operating costs such as website maintenance and infrastructure required for providing our services. Therefore, the commissions charged cover these costs and generate profits. However, the commissions generated are lower than the returns that can be generated by investing in our platform.
                     </p>
                   </div>
                 </div>
@@ -172,37 +159,25 @@
                 <ul class="list-style">
                   <li>
                     <router-link to="/service-details">
-                      Mobile Banking
+                      Exchange cryptocurrencies
                       <span><i class="flaticon-next"></i></span>
                     </router-link>
                   </li>
                   <li>
                     <router-link to="/service-details">
-                      Personal Loans
+                      Foreign Currency Transfers
                       <span><i class="flaticon-next"></i></span>
                     </router-link>
                   </li>
                   <li>
                     <router-link to="/service-details">
-                      Merchant Banking
+                      Digital Asset Management
                       <span><i class="flaticon-next"></i></span>
                     </router-link>
                   </li>
                   <li>
                     <router-link to="/service-details">
-                      Credit Cards
-                      <span><i class="flaticon-next"></i></span>
-                    </router-link>
-                  </li>
-                  <li>
-                    <router-link to="/service-details">
-                      Online Payment
-                      <span><i class="flaticon-next"></i></span>
-                    </router-link>
-                  </li>
-                  <li>
-                    <router-link to="/service-details">
-                      Corporate Banking
+                      NFT Marketplace
                       <span><i class="flaticon-next"></i></span>
                     </router-link>
                   </li>
@@ -214,15 +189,11 @@
               <div class="schedule-widget">
                 <ul class="list-style">
                   <li>
-                    <h6>Mon-Thurs</h6>
-                    <p>8:00 AM - 5:00 PM</p>
+                    <h6>Mon-Fri</h6>
+                    <p>10:00 AM - 6:00 PM</p>
                   </li>
                   <li>
-                    <h6>Fri-Sat</h6>
-                    <p>8:00 AM - 3:00 PM</p>
-                  </li>
-                  <li>
-                    <h6>Sun</h6>
+                    <h6>Weekend</h6>
                     <p>Closed</p>
                   </li>
                 </ul>
@@ -231,7 +202,7 @@
             <div class="sidebar-widget style3">
               <div class="contact-widget-form">
                 <div class="overlay op-95 bg-rock"></div>
-                <h4>Lets Talk</h4>
+                <h4>Let's Talk!</h4>
                 <form @submit.prevent>
                   <div class="form-group">
                     <input type="text" placeholder="Name" />

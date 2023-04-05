@@ -36,7 +36,8 @@
                                             <div class="checkbox style3">
                                                 <input type="checkbox" id="test_1">
                                                 <label for="test_1">
-                                                    I Agree with the <router-link class="link style1" to="/terms-of-service">Terms &amp; conditions</router-link>
+                                                    I Agree 
+                                                    <!--<router-link class="link style1" to="/terms-of-service">Terms &amp; conditions</router-link>-->
                                                 </label>
                                             </div>
                                         </div>
@@ -62,7 +63,7 @@
                     <div class="login-form-wrap">
                         <div class="login-header">
                             <h3>Login Here</h3>
-                            <p>Welcome Back!! Login To Your Account</p>
+                            <p>Welcome Back! Login To Your Account</p>
                         </div>
                         <div class="login-form">
                             <div class="login-body">

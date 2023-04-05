@@ -36,8 +36,8 @@
                                             <div class="checkbox style3">
                                                 <input type="checkbox" id="test_1">
                                                 <label for="test_1">
-                                                    I Agree with the 
-                                                    <router-link class="link style1" to="/terms-of-service">Terms &amp; conditions</router-link>
+                                                    I Agree  
+                                                    <!--<router-link class="link style1" to="/terms-of-service">Terms &amp; conditions</router-link>-->
                                                 </label>
                                             </div>
                                         </div>

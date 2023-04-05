@@ -30,8 +30,8 @@
                     </div>
                     <div class="col-lg-12">
                         <p><span>82.50</span> Exchange Rate <span>$5.50</span> Transition Fees</p>
-                        <p>By clicking continue, I am agree with 
-                            <router-link to="/terms-of-service" class="link style1">Terms & Policy</router-link>
+                        <p>By clicking continue, I am agree 
+                            <!--<router-link to="/terms-of-service" class="link style1">Terms & Policy</router-link>-->
                         </p>
                     </div>
                 </div>
