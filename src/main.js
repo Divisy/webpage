@@ -12,6 +12,7 @@ import "bootstrap-vue-3/dist/bootstrap-vue-3.css";
 import "./assets/custom.scss";
 import './gtm.js';
 
+
 const app = createApp(App).use(router);
 app.use(BootstrapVue3);
 app.use(AOS.init());
@@ -28,3 +29,5 @@ app.use(
       }
     })
   );
+
+app.get('/sitemap.xml', sitemapMiddleware());
