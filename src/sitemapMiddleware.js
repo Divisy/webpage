@@ -9,11 +9,7 @@ export const sitemapMiddleware = () => {
  
     const staticSitemap = path.resolve('dist/static', 'sitemap.xml');
     const filterConfig = {
-      isValid: false,
-      rules: [
-        /\/contact/,
-        /\*/,
-      ],
+      isValid: false
     };
  
     new VueRouterSitemap(router).filterPaths(filterConfig).build('https://divisy.co').save(staticSitemap);
