@@ -114,7 +114,7 @@ const routes = [
 const router = createRouter({
   history: createWebHistory(),
   linkExactActiveClass: "active",
-  routes,
+  routes:[ { path: '/', name: 'home', component: Home } ],
   scrollBehavior() {
     return { top: 0, behavior: "smooth" };
   },
