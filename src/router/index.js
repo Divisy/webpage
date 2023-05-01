@@ -30,6 +30,7 @@ import BlogDetailsLeftSidebarPage from "../components/Pages/BlogDetailsLeftSideb
 import BlogDetailsRightSidebarPage from "../components/Pages/BlogDetailsRightSidebarPage";
 import ContactUsPage from "../components/Pages/ContactUsPage";
 
+
 const routes = [
   { path: "/", name: "HomeOnePage", component: HomeOnePage },
   { path: "/home-two", name: "HomeTwoPage", component: HomeTwoPage },

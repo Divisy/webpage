@@ -12,6 +12,7 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "dependencies": {
+    "@gtm-support/vue-gtm": "^2.0.0",
     "@popperjs/core": "^2.11.6",
     "aos": "^2.3.4",
     "bootstrap": "^5.2.1",
@@ -22,6 +23,7 @@
     "lightgallery": "^2.6.1",
     "serve": "^14.2.0",
     "vue": "^3.2.39",
+    "vue-gtm": "^3.5.0",
     "vue-router": "^4.0.13",
     "vue3-carousel": "^0.1.46"
   },
